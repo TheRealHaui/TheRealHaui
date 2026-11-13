@@ -2,7 +2,7 @@
 
 Senior IT Consultant & Solutions Architect — Graz, Austria. 20+ years across Java, Go, Python, Oracle, security (ISO 27001, pentesting), and cloud-native platforms (GCP, Kubernetes, OpenShift).
 
-Currently building **[DynaCov Safety Automation](https://www.safetyautomation.ai/)** ([source](https://github.com/TheRealHaui/Safety-Automation)) — a chaos/resilience testing platform for regulated enterprises on OpenShift/Kubernetes. Go, Istio, namespace-scoped RBAC, DORA-aligned audit reporting. **[Helm chart](https://github.com/openshift-helm-charts/charts/pull/3125)** and **[container image](https://catalog.redhat.com/en/software/container-stacks/detail/69cd46f81b5d2953b1b5d7d4#overview)** certified by Red Hat.
+Built **[DynaCov Safety Automation](https://www.safetyautomation.ai/)** ([source](https://github.com/TheRealHaui/Safety-Automation)) — a chaos/resilience testing platform for regulated enterprises on OpenShift/Kubernetes. Go, Istio, namespace-scoped RBAC, DORA-aligned audit reporting. **[Helm chart](https://github.com/openshift-helm-charts/charts/pull/3125)** and **[container image](https://catalog.redhat.com/en/software/container-stacks/detail/69cd46f81b5d2953b1b5d7d4#overview)** certified by Red Hat.
 
 ## Selected open-source contributions
 
